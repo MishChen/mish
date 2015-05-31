@@ -23,8 +23,8 @@
 		datasets: [
 			{
 				label: "My First dataset",
-				fillColor: "rgba(220,220,220,0.2)",
-				strokeColor: "#ff69b4",
+				fillColor: "#E8CCFF",
+				strokeColor: "#E8CCFF",
 				pointColor: "rgba(220,220,220,1)",
 				pointStrokeColor: "#808080",
 				pointHighlightFill: "#ff69b4",

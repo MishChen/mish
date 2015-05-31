@@ -166,7 +166,7 @@ img.img-responsive {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li.active {
     outline: 0;
-    background-color: #faf0e6;
+    background-color: #ff69b4;
     border-radius: 10px;
 }
 

@@ -24,11 +24,11 @@
 			{
 				label: "My First dataset",
 				fillColor: "rgba(220,220,220,0.2)",
-				strokeColor: "rgba(220,220,220,1)",
+				strokeColor: "#ff69b4",
 				pointColor: "rgba(220,220,220,1)",
-				pointStrokeColor: "#fff",
-				pointHighlightFill: "#fff",
-				pointHighlightStroke: "rgba(220,220,220,1)",
+				pointStrokeColor: "#808080",
+				pointHighlightFill: "#ff69b4",
+				pointHighlightStroke: "#808080",
 				data: [60,50,70,80,95]
 			},
 			// {
@@ -115,7 +115,7 @@
 			scaleStartValue: null,
 
 			// String - Colour of the scale line
-			scaleLineColor: "rgba(0,0,0,.1)",
+			scaleLineColor: "#c0c0c0",
 
 			// Number - Pixel width of the scale line
 			scaleLineWidth: 1,
